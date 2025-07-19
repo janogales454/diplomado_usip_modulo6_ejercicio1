@@ -1,4 +1,4 @@
-# usip-modulo6-ejercicio1
+# Practica 1 - Diplomado USIP Fullstack Developer - Modulo 6
 
 ## Project setup
 ```
